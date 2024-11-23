@@ -1,6 +1,9 @@
 # Crime-Data-Analysis
 Bu projede, ABD'deki suç verileri detaylı bir şekilde incelenmiştir. Suç çözülme oranları, eyalet bazında suç oranları ve mağdur yaş dağılımları gibi konulara odaklanılmıştır. Proje, istatistiksel analizler, korelasyon çalışmaları ve özellik mühendisliği adımlarıyla desteklenmiştir.
 
+https://www.kaggle.com/code/suedakazan/crime-exploration-through-data/edit
+
+
 ## 📊 Projenin Amacı
 Bu projede:
 - Suç türlerine göre çözülme oranlarının analiz edilmesi,
